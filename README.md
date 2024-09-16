@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
-Back-end em Node.js desenvolvido durante o NLW Journey da Rocketseat.
+Front-end em React desenvolvido durante o NLW Pocket - Javascript da Rocketseat.
 
 ## 📝 Licença
 
